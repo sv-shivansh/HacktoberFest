@@ -3,7 +3,7 @@ int fact(int n);
 void main()
 {
     int n;
-    printf("Enter the number: ");
+    printf("Please enter the number : ");
     scanf("%d",&n);
     printf("Factorical of %d = %d",n,fact(n));
 
