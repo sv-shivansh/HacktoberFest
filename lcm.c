@@ -2,7 +2,7 @@
 int main()
 {
      int a,b,lcm,max,step;
-     printf("emter two numbers");
+     printf("emter the values");
      scanf("%d%d",&a,&b);
      if(a>b)
      max=step=a;
