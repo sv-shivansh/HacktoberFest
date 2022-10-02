@@ -2,11 +2,11 @@
 void main()
 {
 	int size,temp,arr[50],i,j;
-	printf("ENTER THE SIZE OF ARRAY");
+	printf("ENTER THE SIZE OF ARRAY : ");
 	scanf("%d",&size);
 	for(i=0;i<size;i++)
 	{
-		printf("ENTER THE %d ELEMENT",i+1);
+		printf("ENTER THE %d ELEMENT : ",i+1);
 		scanf("%d",&arr[i]);
 	}
 	for(i=0;i<size;i++)
